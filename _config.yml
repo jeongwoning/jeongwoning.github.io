@@ -1,7 +1,7 @@
 # theme: plainwhite
-title: Kunyoung Lee (CV)
+title: Jeongwon Hwang (CV)
 author: KYL92
-email: guy9284@gmail.com
+email: hjwon6@never.com
 description: > # this means to ignore newlines until "show_exerpts:"
   A Docs Site For Curriculum Vitae
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -19,13 +19,13 @@ sass:
   #   - id: 838177043c474405bcbc09826a13153b
 
 plainwhite:
-  name: Kunyoung Lee
+  name: Jeongwon Hwang
   tagline: Ph.D. Researcher in AI, Machine Learning, Affective Computing, etc.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image: "assets/portfolio2.jpg" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     - home
@@ -34,7 +34,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: KYL92
-    email: guy9284@gmail.com
+    email: hjwon6@naver.com
     github:  KYL92
     youtube: /@user-jf9ru4vb3q
     # linkedIn: KYL92
